@@ -1,4 +1,6 @@
 This file was updated.
 Have a nice day!
 
-New changes in learnGit.
+
+New line...
+
